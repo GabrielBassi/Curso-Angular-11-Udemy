@@ -1,0 +1,12 @@
+.img {
+    width: 200px;
+    height: 200px;
+    margin: 60px;
+}
+
+div {
+    background-image: url("https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2020/06/forma-guerrera-shenron-1979409.jpg");
+    width: 1000px;
+    height: 500px;
+    margin: 80px;  
+  }
